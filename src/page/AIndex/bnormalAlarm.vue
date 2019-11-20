@@ -33,7 +33,7 @@ export default {
 <style scoped>
 #bnormalAlarm{
     flex-direction: column;
-    background:rgb(247, 243, 243);
+    background:#fff;
 
 }
 #top{

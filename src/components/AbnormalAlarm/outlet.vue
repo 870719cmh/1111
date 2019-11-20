@@ -1,6 +1,6 @@
 <template>
   <div id="outlet">
-      <el-input v-model="input" placeholder="请排口名称"></el-input>
+      <el-input v-model="input" placeholder="监控点名称"></el-input>
   </div>
 </template>
 
